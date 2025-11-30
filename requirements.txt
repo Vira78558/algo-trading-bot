@@ -1,0 +1,6 @@
+alpaca-py==0.21.0
+pandas==2.1.4
+numpy==1.26.2
+python-dotenv==1.0.0
+matplotlib==3.8.2
+requests==2.31.0
